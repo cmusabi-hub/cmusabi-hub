@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  Feel free to contact me at [musabicharles91@gmail.com](mailto:musabicharles91@gmail.com)
 * 🧠  I'm learning JavaScript, Python, Django and SQL
-* 🤝  I'm open to collaborating on C projects
+* 🤝  I'm open to collaborating on C and Python projects
 
 ### Skills
 
