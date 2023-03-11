@@ -4,7 +4,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm currently based in Nairobi, Kenya
 * ✉️  Feel free to contact me at [musabicharles91@gmail.com](mailto:musabicharles91@gmail.com)
 * 🧠  I'm learning JavaScript, Python, Django and SQL
 * 🤝  I'm open to collaborating on C and Python projects
