@@ -20,11 +20,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -42,8 +39,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -68,8 +63,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -85,7 +78,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -105,7 +97,6 @@
 </div>  
 <br/>  
 
-
 ## Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=cmusabi-hub&show_icons=true&count_private=true&hide_border=true" align="left" />  
@@ -113,22 +104,9 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hqnbnwgslqfummm7iuy2ynxhbq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-
-
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
