@@ -102,9 +102,9 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cmusabi-hub&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=cmusabi-hub&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <a href="http://www.github.com/cmusabi-hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cmusabi-hub&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 
-<a align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hqnbnwgslqfummm7iuy2ynxhbq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></a>  
+<a align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hqnbnwgslqfummm7iuy2ynxhbq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></a>  
 </a> 
