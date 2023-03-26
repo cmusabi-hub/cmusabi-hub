@@ -97,7 +97,7 @@
 <a href="https://dev.to/cmusabihub" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-<a href="http://www.github.com/cmusabi-hub"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cmusabi-hub&bg_color=ffffff&color=000000&line=facc15&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 </div>  
 <br/>  
 
