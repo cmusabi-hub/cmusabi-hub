@@ -13,7 +13,6 @@
 
 - 🤝🤝I'm open to collaborating on C and Python projects   
   
-
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cmusabi-hub&&style=flat-square" align="center" />
