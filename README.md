@@ -2,7 +2,6 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
- 
 ### <div align="center">I'm Charles Musabi, a Full-stack developer 👨‍💻🚀</div>  
   
 - 📮📮 Feel free to contact me at musabicharles91@gmail.com
