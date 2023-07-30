@@ -5,9 +5,9 @@
 </div>  
 <div align="center">I'm Charles Musabi, a Full-stack developer 👨‍💻🚀</div>  
   
-- 📮📮 Feel free to contact me at musabicharles91@gmail.com
-- 🧠🧠I'm learning JavaScript, Python, Django and SQL
-- 🤝🤝I'm open to collaborating on C and Python projects   
+* 📮📮 Feel free to contact me at musabicharles91@gmail.com
+* 🧠🧠I'm learning JavaScript, Python, Django and SQL
+* 🤝🤝I'm open to collaborating on C and Python projects   
   
 <br/>  
 <div align="center">
